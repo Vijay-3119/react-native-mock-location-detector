@@ -1,0 +1,8 @@
+# Prevent npm from copying nested example apps during local file:../.. linking
+example/
+node_modules/
+.git/
+.vscode/
+.idea/
+android/build/
+
